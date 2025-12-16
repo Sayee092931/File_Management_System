@@ -86,6 +86,7 @@ If you want, I can:
 - Add authentication to the Flask UI
 - Add a richer TUI using `prompt_toolkit` or `urwid`
 - Add continuous integration (GitHub Actions) and a coverage report
-
-- **Developed by Sayee Krishnaa SP**
+- Or any suggestions of you own!
+ 
+**Developed by Sayee Krishnaa SP**
 
